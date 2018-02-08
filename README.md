@@ -1,2 +1,2 @@
 # CO_Machine_Lang
-Folder with the Computer Org & Machine Language homework assignments.
+Folder with the Computer Organization & Machine Language homework assignments.
